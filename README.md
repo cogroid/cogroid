@@ -7,4 +7,4 @@ I am working on cogroid project (Android port of OpenCog - AGI - Machine Learnin
 
 Your sponsorship will give me budgets for living expenses while working on cogroid project. It helps me working full-time on this project.
 
-**** [Sponsor me](https://github.com/sponsors/cogroid) ****
+**** [Sponsor me](https://cogroid.com/sponsor/) ****
