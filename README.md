@@ -15,6 +15,8 @@ Your sponsorship will give me budgets for living expenses while working on cogro
 
 ##### May 5, 2022
 
+* (7) [Build libgc 7.4.2 for Android](https://cogroid.com/blog/2022/05/05/build-libgc-7.4.2-for-android)
+
 * (6) [Build libatomic_ops 7.6.2 for Android](https://cogroid.com/blog/2022/05/05/build-libatomic_ops-7.6.2-for-android)
 
 ##### May 4, 2022
