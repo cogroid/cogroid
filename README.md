@@ -13,6 +13,10 @@ Your sponsorship will give me budgets for living expenses while working on cogro
 
 # Blog of cogroid project
 
+##### May 6, 2022
+
+* (8) [Build Guile 2.2 for Android](https://cogroid.com/blog/2022/05/06/build-guile-2.2-for-android)
+
 ##### May 5, 2022
 
 * (7) [Build libgc 7.4.2 for Android](https://cogroid.com/blog/2022/05/05/build-libgc-7.4.2-for-android)
