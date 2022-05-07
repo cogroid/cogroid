@@ -15,6 +15,8 @@ Your sponsorship will give me budgets for living expenses while working on cogro
 
 ##### May 6, 2022
 
+* (9) [Build cogutil for Android](https://cogroid.com/blog/2022/05/06/build-cogutil-for-android)
+
 * (8) [Build Guile 2.2 for Android](https://cogroid.com/blog/2022/05/06/build-guile-2.2-for-android)
 
 ##### May 5, 2022
