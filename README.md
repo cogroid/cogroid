@@ -13,13 +13,13 @@ Your sponsorship will give me budgets for living expenses while working on cogro
 
 # Roadmap of cogroid project
 
-#### datomspace.jar
+#### [datomspace.jar](https://github.com/cogroid/d-atomspace/tree/main/opencog/java)
 
 * Make java classes and JNI code for all useful classes of AtomSpace.
 
 * Support x64, i386 and armv7-a
 
-#### Atomize - JavaScript Sandbox for AtomSpace
+#### [Atomize - JavaScript Sandbox for AtomSpace](https://github.com/cogroid/d-atomize-bin)
 
 * Make JavaScript Sandbox for AtomSpace.
 
