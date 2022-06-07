@@ -59,9 +59,13 @@ Your sponsorship will give me budgets for living expenses while working on cogro
 
 * Support x64, i386 and armv7-a
 
+#### Atomize Kiosk
+
+* Make android app which includes Atomize IDE, Atomize Framework and Atomize Builder, and locks all other features of phone.
+
 #### Atomize OS
 
-* Customize Android OS which makes Atomize Framework and Atomize Builder as main elements
+* Customize Android OS which makes Atomize IDE, Atomize Framework and Atomize Builder as main elements
 
 # Sponsorware of cogroid's project
 
