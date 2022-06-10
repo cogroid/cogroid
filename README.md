@@ -75,6 +75,8 @@ Your sponsorship will give me budgets for living expenses while working on cogro
 
 * User can define knowledge representation, or program a robot by dialogue.
 
+* A robot have customizable architecture so that everyone can customize Atomize Robot and make a new one.
+
 # Sponsorware of cogroid's project
 
 ### Do you need a feature or an app?
