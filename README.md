@@ -69,6 +69,12 @@ Your sponsorship will give me budgets for living expenses while working on cogro
 
 * Customize Android OS which makes Atomize IDE, Atomize Framework and Atomize Builder as main elements
 
+#### Atomize Robot
+
+* Make a thinking and conversational robot. 
+
+* User can define knowledge representation, or program a robot by dialogue.
+
 # Sponsorware of cogroid's project
 
 ### Do you need a feature or an app?
